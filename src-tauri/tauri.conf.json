@@ -39,6 +39,12 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ],
+    "macOS": {
+      "minimumSystemVersion": "10.13",
+      "exceptionDomain": "",
+      "frameworks": [],
+      "useBootstrapper": false
+    },
     "windows": {
       "wix": null,
       "nsis": {
