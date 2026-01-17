@@ -15,7 +15,6 @@ Built with **Tauri 2** (Rust backend) + **Nuxt 3** (Vue frontend).
 - 📋 **Quick Copy** - Copy any value to clipboard
 - 🔲 **Region Selection** - Custom OCR scan area
 - 📌 **Pin/Auto-hide** - Slides in/out from screen edge
-- 🖥️ **System Tray** - Minimize to tray
 
 ---
 
