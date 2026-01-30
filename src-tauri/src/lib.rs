@@ -238,7 +238,6 @@ async fn open_region_selector(app: tauri::AppHandle) -> Result<(), String> {
         .title("Select Region")
         .fullscreen(true)
         .decorations(false)
-        .transparent(true)
         .always_on_top(true)
         .skip_taskbar(true)
         .resizable(false)
